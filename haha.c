@@ -1,4 +1,4 @@
-F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+fweiwifiweF S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
 4 S root         1     0  0  80   0 - 12109 ep_pol 6月22 ?       00:00:11 /usr/lib/systemd/systemd --system --deserialize 22
 1 S root         2     0  0  80   0 -     0 kthrea 6月22 ?       00:00:00 [kthreadd]
 1 S root         3     2  0  80   0 -     0 smpboo 6月22 ?       00:00:17 [ksoftirqd/0]
